@@ -1,4 +1,4 @@
-### Hi there 👋, Karthik B
+### Hi there 👋, I am Karthik B.
 #### Robotics and Automation.
 I am Karthik from India, and I am pursuing Robotic and Automation. I really enjoy learning Robotics and I have a great interest in DeepLearning and ROS. 
 
