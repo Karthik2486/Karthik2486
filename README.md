@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Karthik B.
 #### I am pursuing Robotics and Automation.
-I enjoy learning Robotics and I have a great interest in DeepLearning and ROS. 
+#### I enjoy learning Robotics and I have a great interest in DeepLearning and ROS. 
 
 
 Skills: Python, c++, TensorFlow
