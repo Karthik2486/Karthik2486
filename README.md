@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Karthik B.
 #### I am pursuing Robotics and Automation.
-#### I enjoy learning Robotics and I have a great interest in DeepLearning and ROS. 
+#### I enjoy learning Robotics and I have a great interest in Deep Learning, Machine Learning and ROS. 
 
 
-Skills: Python, c++, TensorFlow
+Skills: Python, c++, TensorFlow, Pandas, NumPy
 
-- 🔭 I’m currently working on DeepLearning Image classification. 
-- 🌱 I’m currently learning ROS, AI and DL 
+- 🔭 I’m currently working on DeepLearning Image classification and ROS projects 
+- 🌱 I’m currently learning ROS and AI
 - 💬 Ask me about Anything 
 - 📫 How to reach me: karthikjudo700@gmail.com 
 
